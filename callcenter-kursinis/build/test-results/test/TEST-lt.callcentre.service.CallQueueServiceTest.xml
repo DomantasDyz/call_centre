@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lt.callcentre.service.CallQueueServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-15T22:12:00.037Z" hostname="DESKTOP-ZWERIS" time="0.025">
+  <properties/>
+  <testcase name="cannotTakeSecondCallWhileAnotherIsActive()" classname="lt.callcentre.service.CallQueueServiceTest" time="0.018"/>
+  <testcase name="oldestRegularCallIsSelected()" classname="lt.callcentre.service.CallQueueServiceTest" time="0.001"/>
+  <testcase name="emptyQueueReturnsError()" classname="lt.callcentre.service.CallQueueServiceTest" time="0.001"/>
+  <testcase name="operatorCannotReadOrChangeOtherOperatorData()" classname="lt.callcentre.service.CallQueueServiceTest" time="0.002"/>
+  <testcase name="vipCallHasPriority()" classname="lt.callcentre.service.CallQueueServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
